@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "557372580372",
+    "firebase_url": "https://notocrime-5b778.firebaseio.com",
+    "project_id": "notocrime-5b778",
+    "storage_bucket": "notocrime-5b778.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557372580372:android:922027ab6cb9a696",
+        "android_client_info": {
+          "package_name": "com.maher.n2c.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557372580372-5934i1o7dg1dc4t0dc6g1aeoopucoc6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArtjHWWnonYrCWece1lziGwc5s5_qP-dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557372580372-5934i1o7dg1dc4t0dc6g1aeoopucoc6t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "557372580372-18bn7nvvfq504c5nbs0u9t08q730auq9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.maher.n2c"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
